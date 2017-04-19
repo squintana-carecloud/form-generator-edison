@@ -23,6 +23,7 @@ const widgetMap = {
     textarea: "TextareaWidget",
     hidden: "HiddenWidget",
     date: "DateWidget",
+    time: "TimeWidget",
     datetime: "DateTimeWidget",
     "date-time": "DateTimeWidget",
     "alt-date": "AltDateWidget",

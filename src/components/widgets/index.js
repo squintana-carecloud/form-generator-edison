@@ -5,6 +5,7 @@ import CheckboxesWidget from "./CheckboxesWidget";
 import ColorWidget from "./ColorWidget";
 import DateWidget from "./DateWidget";
 import DateTimeWidget from "./DateTimeWidget";
+import TimeWidget from './TimeWidget';
 import EmailWidget from "./EmailWidget";
 import FileWidget from "./FileWidget";
 import HiddenWidget from "./HiddenWidget";
@@ -27,6 +28,7 @@ export default {
   TextWidget,
   DateWidget,
   DateTimeWidget,
+  TimeWidget,
   AltDateWidget,
   AltDateTimeWidget,
   EmailWidget,
